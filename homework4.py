@@ -1,7 +1,8 @@
-my_string = 'Привет, меня зовут Арнольд!'
-print(len(my_string))
-print(my_string.upper())
-print(my_string.lower())
-print(my_string.replace(' ', ''))
-print(my_string[0])
-print(my_string[-1])
+my_string = input('Привет, меня зовут Арнольд!')
+a='Привет, меня зовут Арнольд!'
+print(len(a))
+print(a.upper())
+print(a.lower())
+print(a.replace(' ', ''))
+print(a[0])
+print(a[-1])
